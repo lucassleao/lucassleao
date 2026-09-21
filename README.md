@@ -33,7 +33,7 @@ Building REST APIs, automations, bots, and business systems.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,nodejs,python,git,aws,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,nodejs,python,git,aws,vscode" />
 
 </div>
 
