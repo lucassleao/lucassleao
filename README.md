@@ -1,76 +1,21 @@
-<div align="center">
-  <img src="./assets/banner.png.png" width="100%" />
-</div>
+<img src="banner.svg" width="100%" />
 
-<br>
+### Sobre mim
 
-<h1 align="center">Hi 👋 I'm Lucas Silva Leão</h1>
+- Engenheiro de Software e AI Engineer no Procon/AC
+- Digitalização de processos em papel com sistemas web e automações, reduzindo em **70%** o tempo de atendimento
+- APIs REST, arquitetura em camadas, Clean Code, SOLID e integração entre sistemas
+- IA aplicada: LLMs locais com Ollama, engenharia de prompt, RAG e agentes para automação de fluxos
 
-<h3 align="center">Backend Developer • Java • Spring Boot • Automation</h3>
+### Stack
 
-<p align="center">
-Passionate about backend development, scalable systems, and real-world software solutions.
-</p>
+- **Backend:** Java + Spring Boot (principal) · PHP + Laravel (trabalho)
+- **IA:** Python, LLMs, Ollama
+- **Dados e ferramentas:** MySQL, PostgreSQL, Git
 
-<p align="center">
-Building REST APIs, automations, bots, and business systems.
-</p>
+<img src="https://skillicons.dev/icons?i=java,spring,php,laravel,python" />
 
----
+### Contato
 
-## 🚀 About Me
+[GitHub](https://github.com/lucassleao) · [LinkedIn](https://www.linkedin.com/in/lucasleaolsldev)
 
-- 🌍 Based in Brazil 🇧🇷
-- 💻 Software Engineer focused on Backend Development and Automation
-- 🚀 Currently building intelligent automations and scalable business solutions
-- 🧠 Learning AWS Cloud, Software Architecture, and Scalable Backend Systems
-- 👥 Open to collaboration, learning, and innovative projects
-- ⚡ Passionate about technology and impactful software solutions
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,nodejs,python,git,aws" />
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/lucassleao">
-<img src="https://skillicons.dev/icons?i=github" width="48" />
-</a>
-
-<a href="https://www.linkedin.com/in/lucas-silva-le%C3%A3o-b6792332b/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="48" />
-</a>
-
-<a href="https://discord.com/users/7leao">
-<img src="https://skillicons.dev/icons?i=discord" width="48" />
-</a>
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lucassleao&theme=transparent&hide_border=true&stroke=3b82f6&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6" />
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 "Turning ideas into scalable software solutions."
-
-</div>
